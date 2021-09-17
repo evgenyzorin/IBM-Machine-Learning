@@ -1,2 +1,2 @@
 # IBM-Machine-Learning
-IBM Machine Learning Professional Certificate
+IBM Machine Learning Professional Certificate Projects
