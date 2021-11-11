@@ -15,3 +15,5 @@ The main goal of this project is to create an unsupervised learning model using 
 ## :file_folder: [Deep Learning and Reinforcement Learning](https://github.com/evgenyzorin/IBM-Machine-Learning/tree/main/Deep-Learning)
 ### Intel Image Classification
 The main goal of this project is to create a classification model based on a Convolutional Neural Network that can identify what type of natural scene an image can be classified as.
+## :file_folder: [Specialized Models: Time Series and Survival Analysis](https://github.com/evgenyzorin/IBM-Machine-Learning/tree/main/Time-Series)
+### TBD
