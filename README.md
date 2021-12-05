@@ -16,4 +16,5 @@ The main goal of this project is to create an unsupervised learning model using 
 ### Intel Image Classification
 The main goal of this project is to create a classification model based on a Convolutional Neural Network that can identify what type of natural scene an image can be classified as.
 ## :file_folder: [Specialized Models: Time Series and Survival Analysis](https://github.com/evgenyzorin/IBM-Machine-Learning/tree/main/Time-Series)
-### TBD
+### Air Passengers Prediction
+The main goal of this project is to build a model that will be able to predict the demand for air travel (passenger traffic) in the United States for the next 12 months based on data from the past 12 years.
