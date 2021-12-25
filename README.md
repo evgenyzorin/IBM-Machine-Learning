@@ -1,5 +1,5 @@
 # :rocket: IBM Machine Learning Professional Certificate
-This repository consists of the 6 Final Projects of the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) and covers such Machine Learning topics as **Exploratory Data Analysis**, **Supervised Learning**, **Unsupervised Learning**, **Deep Learning** and **Time Series**.
+This repository consists of the 6 Final Projects of the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) offered by **IBM** and covers such Machine Learning topics as **Exploratory Data Analysis**, **Supervised Learning**, **Unsupervised Learning**, **Deep Learning** and **Time Series**.
 ## :file_folder: [Exploratory Data Analysis for Machine Learning](https://github.com/evgenyzorin/IBM-Machine-Learning/tree/main/Exploratory-Data-Analysis)
 ### Bank Customer Churn Analysis
 The main goal of this project is to perform an exploratory analysis of the bank's credit department data and understand the relationship between the various features. This will allow further building of a predictive model that can identify customers who are likely to drop credit card services in order to offer them more compatible and attractive services.
